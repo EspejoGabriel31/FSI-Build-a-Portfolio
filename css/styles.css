@@ -15,6 +15,9 @@ div {
     cursor:crosshair;
 }
 
+hr{
+    border: 1.5px solid lime;
+}
 
 h1{
     color: lime;
