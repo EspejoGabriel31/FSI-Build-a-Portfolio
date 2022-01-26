@@ -21,9 +21,15 @@ h3{
 }
 
 p{
-    color: white;
+    color: silver;
     
 }
+img{
+    border-radius: 50%;
+    border: 5px solid silver;
+  
+}
+
 .about-section{
     text-align: left;
     color:white;
@@ -38,6 +44,8 @@ p{
 .contact-section{
     text-align: center;
 }
+
+
 /*
 ul{
     text-align: left;
