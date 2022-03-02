@@ -7,6 +7,24 @@ body{
     
 }
 
+nav{
+    text-align: left;
+    background-color: black;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a{
+    text-decoration: none;
+}
+
 div {
     line-height: 1.8em;
     border-style: transparent;
